@@ -1,0 +1,132 @@
+B 4
+None
+Q 8
+None
+BA 10
+BA 6
+None
+B 1
+G 2
+None
+D 6
+D 6
+G 2
+None
+G 2
+None
+D 4
+B 1
+D 5
+B 17
+G 4
+None
+GOA 3
+None
+None
+I 9
+B 15
+G 5
+G 23
+B 15
+Q 23
+BA 6
+B 4
+None
+E 2
+B 4
+G1 2
+None
+K 4
+H 5
+G1 7
+BA 5
+G 17
+G 23
+G 7
+I 10
+L 6
+X 12
+G 0
+GOOSE 0
+GOOSE 1
+O 7
+E 2
+B 4
+G1 2
+E 0
+D 6
+Z 2
+C 5
+D 6
+F 21
+D 14
+G1 0
+G3 19
+D 2
+E 0
+B 15
+G 5
+G 23
+B 15
+Q 23
+BA 6
+B 4
+None
+E 2
+B 4
+G1 2
+D 6
+F 5
+D 10
+G1 0
+G3 19
+G2 21
+G 2
+G 2
+D 6
+D 2
+None
+O 7
+G 3
+None
+B 4
+BA 10
+E 3
+E 3
+E 3
+E 3
+G 9
+G 9
+G 9
+G 9
+G 9
+F 3
+E 4
+H 9
+H 9
+E 2
+G 2
+None
+Q 8
+M 2
+K 3
+M 6
+M 6
+M 6
+M 6
+M 6
+None
+Z 13
+Z 1
+Z 1
+G 5
+G 2
+None
+G 8
+J 5
+J 5
+G 4
+G 6
+G 2
+H 2
+H 2
